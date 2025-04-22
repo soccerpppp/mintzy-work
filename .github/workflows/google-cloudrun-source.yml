@@ -35,9 +35,9 @@ on:
       - '"main"'
 
 env:
-  PROJECT_ID: 'my-project' # TODO: update to your Google Cloud project ID
-  REGION: 'us-central1' # TODO: update to your region
-  SERVICE: 'my-service' # TODO: update to your service name
+  PROJECT_ID: 'project-tesis-457609' # TODO: update to your Google Cloud project ID
+  REGION: 'global' # TODO: update to your region
+  SERVICE: 'Compute Engine default service account' # TODO: update to your service name
 
 jobs:
   deploy:
